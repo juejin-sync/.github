@@ -17,7 +17,7 @@
     <a href="https://github.com/juejin-sync/juejin-sync">查看源码</a> ·
     <a href="https://github.com/juejin-sync/juejin-sync/releases/latest">下载扩展</a> ·
     <a href="https://juejin-sync.github.io/juejin-sync/status.html">运行状态</a> ·
-    <a href="https://artferry.vercel.app">官方网站</a>
+    <a href="https://juejinsync.vercel.app/">官方网站</a>
   </p>
 </div>
 
