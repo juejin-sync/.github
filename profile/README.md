@@ -9,9 +9,6 @@
     <a href="https://github.com/juejin-sync/juejin-sync/actions/workflows/ci.yml">
       <img src="https://github.com/juejin-sync/juejin-sync/actions/workflows/ci.yml/badge.svg" alt="CI status">
     </a>
-    <a href="https://github.com/juejin-sync/juejin-sync/stargazers">
-      <img src="https://img.shields.io/github/stars/juejin-sync/juejin-sync?style=flat&label=stars" alt="GitHub stars">
-    </a>
     <a href="https://github.com/juejin-sync/juejin-sync/blob/master/LICENSE">
       <img src="https://img.shields.io/badge/license-MIT-2f855a" alt="MIT License">
     </a>
